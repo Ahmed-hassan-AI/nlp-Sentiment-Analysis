@@ -20,15 +20,15 @@ count Null Values : 0
 
 - matplotlib
 
-- saeborn
+- seaborn
 
 - keras
 
 ## ✒ preprocessing
 
--Replace Postive and Nagative to 0 and 1
+- Replace Postive and Nagative to 0 and 1
 
--tokeniztion
+- tokeniztion
 
 ## model 
 
